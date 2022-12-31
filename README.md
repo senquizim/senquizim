@@ -1,5 +1,4 @@
-<img src="https://im2.ezgif.com/tmp/ezgif-2-cff4a28a68.gif"
-align="under" width="400" height="250">
+<img src="https://im2.ezgif.com/tmp/ezgif-2-cff4a28a68.gif">
 
 
 # 💊 About:
