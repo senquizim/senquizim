@@ -1,7 +1,7 @@
 <img src="https://im2.ezgif.com/tmp/ezgif-2-cff4a28a68.gif">
 
 
-#🟣 About:
+# 🟣 About:
 Hello, I am senquizim, I have been dealing with software for 2 year and I am developing myself.
 
 
