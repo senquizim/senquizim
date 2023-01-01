@@ -1,4 +1,4 @@
-<img src="https://im2.ezgif.com/tmp/ezgif-2-cff4a28a68.gif">
+<img src="https://i.ibb.co/j4XFXnw/standard.gif">
 
 
 # 🟣 About:
