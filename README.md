@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/QrQ2jTT/standard.gif">
+<img src="https://senquizim.netlify.app/assets/img/profile.gif">
 
 
 # 🟣 About:
