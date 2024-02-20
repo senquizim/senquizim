@@ -2,7 +2,7 @@
 
 
 # 🟣 About:
-Hello, I am senquizim, I have been dealing with software for 2 year and I am developing myself.
+Hello, I am senquizim, I have been dealing with software for 4 year and I am developing myself.
 
 
 
