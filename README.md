@@ -2,7 +2,7 @@
 <img src="https://senquizim.netlify.app/assets/img/profile.gif">
 --> 
 <div align="center">
-    <a href="https://discord.com/users/1039518230533902426" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/1039518230533902426"></a>
+    <a href="https://senquizim.netlify.app"><img src="https://lanyard-profile-readme.vercel.app/api/1039518230533902426"></a>
 </div>
 
 # 🟣 About:
